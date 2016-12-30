@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SpotifySearch
 //
-//  Created by Livio de Lima Sales on 30/12/16.
+//  Created by Livio Lima on 30/12/16.
 //  Copyright © 2016 LivioLima. All rights reserved.
 //
 
